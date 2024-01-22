@@ -4,7 +4,7 @@
 - [Financial project](https://github.com/Chingling152/my-financial-hub)
 - [Compound interest calculator](https://github.com/Garden-Coin/API-CalculadoraDeInvestimentos)
 - [Poker Mini game](https://github.com/Chingling152/poker-minigame)
-- [C# library](https://github.com/The-Chest/the-chest-core)
+- [Inventory library](https://github.com/The-Chest/the-chest-core)
 
 ### Main Tecnologies 
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
