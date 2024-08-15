@@ -1,4 +1,5 @@
 ### Hi there 👋
+> There is nothing. Only warm, primordial blackness.
 
 ### I’m currently working on these personal projects
 - [Financial project](https://github.com/Chingling152/my-financial-hub)
@@ -14,13 +15,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="32" alt="nodejs logo" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="32" alt="nestjs logo" /> 
 </div>
 
 ### I’m currently studying 
 <div align="left">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="32" alt="amazonwebservices logo" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="32" alt="azure logo" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="32" alt="nestjs logo" /> 
 </div>
 
 ### But I also know 
@@ -31,8 +32,6 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-> Soon I'll update this readme structure
 
 ### Yay stats
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=chingling152&hide=tcl,objective-c&layout=compact&theme=dark)](https://github.com/chingling152/)  
