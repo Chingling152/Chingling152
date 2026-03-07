@@ -1,5 +1,5 @@
 ### Hi there 👋
-> There is nothing. Only warm, primordial blackness.
+> //TODO: add more stuff later soon
 
 ### I’m currently working on these personal projects
 - [Financial project](https://github.com/Chingling152/my-financial-hub)
@@ -30,6 +30,3 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### Yay stats
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=chingling152&hide=tcl,objective-c&layout=compact&theme=dark)](https://github.com/chingling152/)  
