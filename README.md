@@ -3,7 +3,7 @@
 
 ### I’m currently working on these personal projects
 - [Financial project](https://github.com/Chingling152/my-financial-hub)
-- [Inventory library](https://github.com/The-Chest/the-chest-core)
+- [Inventory library](https://github.com/The-Chest)
 
 ### Main Tecnologies 
 <div align="left">
@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="32" alt="nodejs logo" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="32" alt="nestjs logo" /> 
-</div>
-
-### I’m currently studying 
-<div align="left">
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="32" alt="azure logo" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" alt="github logo" />
 </div>
